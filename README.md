@@ -1,4 +1,3 @@
-
 # GoodGame расширение для чата (Twitch like)
 
 
@@ -13,6 +12,10 @@
 3. !! Для канала DreakingDad на GoodGame . URL GoodGameBot указан по умолчанию. Если нет, укажите - 
 https://nonformal-snarlingly-isela.ngrok-free.dev/api/commands
 Иначе команды, команды-изображения не будут подгружаться
+
+ПОЧЕМУ НЕ ЗАГРУЗИЛ НА Chrome Web Store?
+Для публикации в Chrome Web Store нужен взнос $5 при регистрации разработчика, а оплатить его с карты РФ сейчас нельзя. Поэтому пока только установка вручную из архива или .crx.
+
 
 ## КАК ЭТО ВЫГЛЯДИТ
 <p align="center">

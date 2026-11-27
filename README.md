@@ -2,7 +2,7 @@
 
 
 ## ЗАГРУЗКА
-1. Загрузить архив https://github.com/stoneholldev/goodgame-chat-extension/archive/refs/tags/2.18.zip
+1. Загрузить архив https://github.com/stoneholldev/goodgame-chat-extension/releases/download/2.26/goodgame-chat.zip
 2. Распаковать
 
 ## УСТАНОВКА. Из файла `.crx` (для Яндекс Браузера, Edge, Brave и др.)**
@@ -10,7 +10,7 @@
 1. Откройте страницу расширений (`chrome://extensions` или `browser://extensions`) и включите **Режим разработчика**.
 2. Перетащите файл `.crx` из релиза прямо в окно браузера и подтвердите установку.
 3. !! Для канала DreakingDad на GoodGame . URL GoodGameBot указан по умолчанию. Если нет, укажите - 
-https://nonformal-snarlingly-isela.ngrok-free.dev/api/commands
+https://nonformal-snarlingly-isela.ngrok-free.dev
 Иначе команды, команды-изображения не будут подгружаться
 
 ## ПОЧЕМУ НЕ ЗАГРУЗИЛ НА Chrome Web Store?

@@ -1,14 +1,11 @@
 # GoodGame расширение для чата (Twitch like)
 
 
-## ЗАГРУЗКА
-1. Загрузить архив https://github.com/stoneholldev/goodgame-chat-extension/releases/download/2.28/goodgame-chat-0.2.28.zip
-2. Распаковать, должен появится файл с расширением .crx
-
-## УСТАНОВКА. Из архива (для Google Chrome, Яндекс Браузера, Edge, Brave и др.)**
-
-1. Откройте страницу расширений (`chrome://extensions` или `browser://extensions`) и включите **Режим разработчика**.
-2. Перенесите файл .crx в это окно, жмите установить
+## ЗАГРУЗКА И УСТАНОВКА (для Google Chrome, Яндекс Браузера, Edge, Brave и др.)
+1. Загрузить архив [Скачать последнюю версию (ZIP)](https://github.com/stoneholldev/goodgame-chat-extension/releases/latest/download/goodgame-chat.zip)
+2. Распаковать, появится папка с файлами, положить эту папку в надежное место, чтобы случайно не удалить
+3. Откройте страницу расширений (`chrome://extensions` или `browser://extensions`) и включите **Режим разработчика**
+2. Нажать кнопку "Load unpacked", выбрать папку с расширением (зайти в папку) и подтвердить
 3. Если выйдет окно Safety Check (Проверка безопасности), подтвердите. 
 
 ## ПОЧЕМУ НЕ ЗАГРУЗИЛ НА Chrome Web Store?

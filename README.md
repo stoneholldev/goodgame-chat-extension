@@ -1,0 +1,1 @@
+# goodgame-chat-extension

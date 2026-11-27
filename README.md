@@ -1,6 +1,11 @@
 # GoodGame расширение для чата (Twitch like)
 
+## ЗАГРУЗКА
+1. Загрузить архив https://github.com/stoneholldev/goodgame-chat-extension/archive/refs/tags/1.0.zip
+2. Распаковать
+
 ## УСТАНОВКА. Из файла `.crx` (для Яндекс Браузера, Edge, Brave и др.)**
+
 1. Откройте страницу расширений (`chrome://extensions` или `browser://extensions`) и включите **Режим разработчика**.
 2. Перетащите файл `.crx` из релиза прямо в окно браузера и подтвердите установку.
 3. !! Для канала DreakingDad на GoodGame . URL GoodGameBot указан по умолчанию. Если нет, укажите - 

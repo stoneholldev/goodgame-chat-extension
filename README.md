@@ -2,7 +2,7 @@
 
 
 ## ЗАГРУЗКА
-1. Загрузить архив https://github.com/stoneholldev/goodgame-chat-extension/archive/refs/tags/1.0.zip
+1. Загрузить архив [https://github.com/stoneholldev/goodgame-chat-extension/archive/refs/tags/1.0.zip](https://github.com/stoneholldev/goodgame-chat-extension/archive/refs/tags/2.18.zip)
 2. Распаковать
 
 ## УСТАНОВКА. Из файла `.crx` (для Яндекс Браузера, Edge, Brave и др.)**

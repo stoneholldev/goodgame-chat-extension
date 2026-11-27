@@ -2,13 +2,14 @@
 
 
 ## ЗАГРУЗКА
-1. Загрузить архив https://github.com/stoneholldev/goodgame-chat-extension/releases/download/2.26/goodgame-chat.zip
-2. Распаковать
+1. Загрузить архив https://github.com/stoneholldev/goodgame-chat-extension/releases/download/2.27/goodgame-chat.zip
+2. Распаковать, сохранить куда нибудь где не удалится
 
 ## УСТАНОВКА. Из файла `.crx` (для Google Chrome, Яндекс Браузера, Edge, Brave и др.)**
 
 1. Откройте страницу расширений (`chrome://extensions` или `browser://extensions`) и включите **Режим разработчика**.
-2. Перетащите файл `.crx` из релиза прямо в окно браузера и подтвердите установку.
+2. Нажать кнопку Load unpacked, выбрать распакованую папку (зайти внутрь)
+3. Пользоваться
 
 ## ПОЧЕМУ НЕ ЗАГРУЗИЛ НА Chrome Web Store?
 Для публикации в Chrome Web Store нужен взнос $5 при регистрации разработчика, а оплатить его с карты РФ сейчас нельзя. Поэтому пока только установка вручную с .crx.

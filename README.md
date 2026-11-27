@@ -5,7 +5,7 @@
 1. Загрузить архив https://github.com/stoneholldev/goodgame-chat-extension/releases/download/2.26/goodgame-chat.zip
 2. Распаковать
 
-## УСТАНОВКА. Из файла `.crx` (для Яндекс Браузера, Edge, Brave и др.)**
+## УСТАНОВКА. Из файла `.crx` (для Google Chrome, Яндекс Браузера, Edge, Brave и др.)**
 
 1. Откройте страницу расширений (`chrome://extensions` или `browser://extensions`) и включите **Режим разработчика**.
 2. Перетащите файл `.crx` из релиза прямо в окно браузера и подтвердите установку.
